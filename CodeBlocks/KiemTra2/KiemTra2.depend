@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526491959 source:d:\c\file codeblocks\kiemtra2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<conio.h>
+

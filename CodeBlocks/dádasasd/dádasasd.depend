@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522379084 source:d:\c\file codeblocks\dádasasd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

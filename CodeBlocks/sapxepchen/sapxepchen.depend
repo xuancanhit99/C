@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512013095 source:e:\programmer\c\file codeblocks\sapxepchen\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    double a,b;
+    scanf("%lf", &a);
+    if (a>0) && (a<=0.8)
+        printf("10000");
+    if (a>0.8) && (a<=30.08)
+        b=10000+
+        
+    return 0;
+}

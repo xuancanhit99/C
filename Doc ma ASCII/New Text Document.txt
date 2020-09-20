@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <windows.h>
+
+int main()
+{
+    char kiTu;
+    while(kiTu!='0'){
+	    printf("\nNhap ki tu: ");
+	    scanf(" %c", &kiTu);// thêm khoảng trắng trước %c hoặc thêm \n trước %c là ok nhé
+	    printf("ASCII: %d", kiTu);
+
+    }
+}

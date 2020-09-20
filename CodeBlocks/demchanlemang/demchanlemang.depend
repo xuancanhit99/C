@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512018292 source:e:\programmer\c\file codeblocks\demchanlemang\main.c
+	<stdio.h>
+	<stdlib.h>
+

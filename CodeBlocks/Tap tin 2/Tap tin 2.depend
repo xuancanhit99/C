@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1522653626 source:d:\c\file codeblocks\tap tin 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

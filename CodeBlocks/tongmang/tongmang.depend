@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511497573 source:e:\programmer\c\file codeblocks\tongmang\main.c
+	<stdio.h>
+	<stdlib.h>
+

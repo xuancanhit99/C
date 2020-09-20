@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1521711534 source:d:\c\file codeblocks\u\main.c
+	<stdio.h>
+
+1522045095 source:d:\c\file codeblocks\contro\main.c
+	<stdio.h>
+	<stdlib.h>
+
